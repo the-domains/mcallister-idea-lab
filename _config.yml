@@ -1,0 +1,26 @@
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.8154122
+color:
+  saturation: 0.6702509
+  brandStrength: 0.8082438
+  rhythmicContrast: 0.5698925
+  brandColors:
+    - '#27415D'
+    - '#87A4B5'
+    - '#CCF7FF'
+    - '#D7B46E'
+    - '#AB5D4B'
+  lightness: 0.1541219
+layout_spectrum: 0
+name: 'McAllister Idea Lab '

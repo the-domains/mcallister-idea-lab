@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: 'McAllister Idea Lab '
 favicon: null
+name: 'McAllister Idea Lab '
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.8154122
-layout_spectrum: 0.49829
+layout_spectrum: 0.1827957

@@ -1,41 +1,41 @@
-name: 'McAllister Idea Lab '
-favicon: null
-layout_spectrum: 0.49829
-typography_spectrum: 0.8154122
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+layout_spectrum: 0.49829
 title: Ideas Matter
 cta:
-  domain: null
   bucket: null
   version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+  domain: null
 color:
+  saturation: 0.6702509
+  brandStrength: 0.8082438
+  rhythmicContrast: 0.5698925
   brandColors:
     - '#27415D'
     - '#87A4B5'
     - '#CCF7FF'
     - '#D7B46E'
     - '#AB5D4B'
-  brandStrength: 0.8082438
   lightness: 0.1541219
-  saturation: 0.6702509
-  rhythmicContrast: 0.5698925
 purpose: []
+favicon: null
+name: 'McAllister Idea Lab '
+typography_spectrum: 0.8154122

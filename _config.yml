@@ -1,6 +1,6 @@
 name: 'McAllister Idea Lab '
 favicon: null
-layout_spectrum: 0.1827957
+layout_spectrum: 1
 typography_spectrum: 0
 title: 株式会社 マカリスター 考務店
 collections:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#27415D'
-    - '#87A4B5'
-    - '#CCF7FF'
-    - '#D7B46E'
-    - '#AB5D4B'
-  brandStrength: 1
-  lightness: 0.0625
+    - '#f8f8f8'
+    - '#9ac8e2'
+    - '#2c252c'
+    - '#7b6a58'
+    - '#b0a299'
+  brandStrength: 0.5
+  lightness: 0
   saturation: 0.6875
-  rhythmicContrast: 0.25
+  rhythmicContrast: 1
 purpose: []

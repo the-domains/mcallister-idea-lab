@@ -1,5 +1,8 @@
+name: 'McAllister Idea Lab, Inc. '
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0
 title: 株式会社 マカリスター 考務店
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6875
-  brandStrength: 0.1971326
-  lightness: 0
   brandColors:
     - '#f8f8f8'
     - '#9ac8e2'
     - '#2c252c'
     - '#7b6a58'
     - '#b0a299'
+  brandStrength: 0.9375
+  lightness: 1
+  saturation: 1
   rhythmicContrast: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: 'McAllister Idea Lab '
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0
-layout_spectrum: 1
+purpose: []
